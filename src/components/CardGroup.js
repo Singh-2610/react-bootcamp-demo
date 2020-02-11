@@ -29,6 +29,7 @@ const styles = {
     container: {
         display: "flex",
         width: "80%",
+        margin: "auto"
         flexDirection: "row",
         alignItems: "center",
         justifyContent: "space-between",
